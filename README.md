@@ -20,7 +20,11 @@ Nexora's cybersecurity capabilities are reactive and fragmented. The greatest ri
  
  ## Dashboard Preview
  The image below shows current security standing
+ 
 <img width="946" height="344" alt="image" src="https://github.com/user-attachments/assets/97119506-3d25-473b-9bf5-412033d3b689" />
+
+The xls docs is attached here:[Nexora Gap Analysis.xlsx](https://github.com/user-attachments/files/27500410/Nexora.Gap.Analysis.xlsx)
+
 # Nexora Tech Solutions – Cybersecurity Gap Analysis
 
 
