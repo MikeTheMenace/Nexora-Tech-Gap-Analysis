@@ -1,6 +1,8 @@
 # Nexora Tech – Gap Analysis Report
 Framework:National Cyber Security Centre Cyber Assesment Framework (NCSC CAF 4.0)
+
 **Last Audit:** March 2026  
+
 **Overall Risk Level:** ![High Risk](https://img.shields.io/badge/Risk-HIGH-red)
 
 ## Executive Summary
