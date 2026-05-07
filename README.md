@@ -5,8 +5,13 @@ Framework:National Cyber Security Centre Cyber Assesment Framework (NCSC CAF 4.0
 
 ## Executive Summary
 Nexora's cybersecurity capabilities are reactive and fragmented. The greatest risks are:
+
 -No formal Risk appetite and  cyber risk isn't a part of the ERM resource.
+
 - Backups are untested and icnident management and response is informal.
+  
+- No official Reporting techniques.
+  
 -  Asset inventories are incomplete.
 
  **Overall risk exposure**: **High⚠️** – urgent remediation recommended.
@@ -16,34 +21,6 @@ Nexora's cybersecurity capabilities are reactive and fragmented. The greatest ri
 <img width="946" height="344" alt="image" src="https://github.com/user-attachments/assets/97119506-3d25-473b-9bf5-412033d3b689" />
 # Nexora Tech Solutions – Cybersecurity Gap Analysis
 
-**Framework**: NIST CSF (Cybersecurity Framework)  
-**Target Maturity**: Tier 3 (Repeatable / Defined)  
-**Assessment Date**: May 2026  
-**Prepared by**: [Your Name / Team Name]
-
----
-
-## Executive Summary
-
-Nexora Tech Solutions’ cybersecurity capabilities are currently **fragmented and reactive**. Governance is informal, asset inventories are incomplete, detection is ad‑hoc, and incident response depends on individual expertise rather than structured processes. Recovery plans exist for some systems but are not tested.
-
-The greatest risks are:
-- No formal risk appetite or executive ownership of cybersecurity
-- Inconsistent identity and access management
-- Untested backups and incomplete recovery planning
-
-**Overall risk exposure**: **High** – urgent remediation recommended.
-
----
-
-## Dashboard Preview
-
-Below is a snapshot of the detailed scoring dashboard.  
-*(Open the attached Excel file for interactive filters and full scoring.)*
-
-![Nexora Gap Analysis Dashboard](./dashboard.png)
-
----
 
 ## Detailed Gap Analysis
 
